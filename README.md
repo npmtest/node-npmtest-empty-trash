@@ -1,4 +1,7 @@
-# test coverage for  [empty-trash (v2.1.1)](https://github.com/sindresorhus/empty-trash#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-empty-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-empty-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-empty-trash.svg)](https://travis-ci.org/npmtest/node-npmtest-empty-trash)
+# npmtest-empty-trash
+
+#### basic test coverage for  [empty-trash (v2.1.1)](https://github.com/sindresorhus/empty-trash#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-empty-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-empty-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-empty-trash.svg)](https://travis-ci.org/npmtest/node-npmtest-empty-trash)
+
 #### Empty the trash
 
 [![NPM](https://nodei.co/npm/empty-trash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/empty-trash)
